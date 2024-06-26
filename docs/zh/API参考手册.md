@@ -46,7 +46,7 @@ TLV（Type-Length-Value）是一种数据编码格式，由数据的类型（Tag
 
 参数：
 
-- `tlv`：tlv io句柄
+- `tlv`：`tlv_ios_t`
 
 返回值：`tlv_base_t`
 
@@ -56,7 +56,7 @@ TLV（Type-Length-Value）是一种数据编码格式，由数据的类型（Tag
 
 参数：
 
-- `tlv`：tlv io句柄
+- `tlv`：`tlv_ios_t`
 
 返回值：无
 
@@ -66,7 +66,7 @@ TLV（Type-Length-Value）是一种数据编码格式，由数据的类型（Tag
 
 参数：
 
-- `tlv`：tlv io句柄
+- `tlv`：`tlv_ios_t`
 - `send_data_array`：待发送数据
 - `array_len`：数据长度
 
