@@ -11,7 +11,7 @@
 ## 用法
 
 - [API 参考手册](./docs/zh/API参考手册.md)
-- [示例代码](./code/demo.py)
+- [示例代码](./code/demo.c)
 
 ## 贡献
 

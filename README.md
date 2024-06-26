@@ -11,7 +11,7 @@ TLV (Type Length Value) is a data encoding format composed of the type of data (
 ## Usage
 
 - [API Reference Manual](./docs/en/API_Reference.md)
-- [Example Code](./code/demo.py)
+- [Example Code](./code/demo.c)
 
 ## Contribution
 
